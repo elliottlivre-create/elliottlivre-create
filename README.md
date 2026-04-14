@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 22-year-old DevOps student at Nackademin. Alongside my studies, I’ve worked in several roles where I’ve gained hands-on experience in IT infrastructure, system management, and logistics. I enjoy combining technical problem-solving with practical, real-world work.
+I’m a 23-year-old DevOps student at Nackademin. Alongside my studies, I’ve worked in several roles where I’ve gained hands-on experience in IT infrastructure, system management, and logistics. I enjoy combining technical problem-solving with practical, real-world work.
 
 
 ## 🌐 Socials:
